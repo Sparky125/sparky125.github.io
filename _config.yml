@@ -1,0 +1,15 @@
+# _config.yml
+title: "odeh.page"
+description: ""
+url: ""
+baseurl: ""
+theme: null
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - .htaccess
+  - _pages
